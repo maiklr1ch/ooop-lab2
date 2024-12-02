@@ -20,7 +20,7 @@
 ## Приклади роботи
 
 ![image](https://i.imgur.com/WBrZ3i4.png)
-![image](hhttps://i.imgur.com/EIr0yMB.png)
+![image](https://i.imgur.com/EIr0yMB.png)
 ![image](https://i.imgur.com/Z7Tumui.png)
 ![image](https://i.imgur.com/257YgZr.png)
 ![image](https://i.imgur.com/Qj58Ocu.png)
